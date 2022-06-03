@@ -367,6 +367,10 @@ header .navbar ul li a:hover{
     z-index:100;
     display:none;
 }
+.top img{
+    width: 100%;
+    height: 250%;
+}
 
 
 
